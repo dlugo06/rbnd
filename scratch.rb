@@ -1,5 +1,5 @@
 def div_by_five?(number)
-  puts number % 5 == 0
+  puts number % 6 == 0
 end
 
 div_by_five?(20)
