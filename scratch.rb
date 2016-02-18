@@ -5,7 +5,10 @@ end
 div_by_five?(20)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of b2ec9b2... add add_5 method
 =======
 >>>>>>> parent of b2ec9b2... add add_5 method
 def method_name
