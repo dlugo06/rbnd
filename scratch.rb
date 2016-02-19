@@ -7,3 +7,6 @@ div_by_five?(20)
 def method_name
   5+5
 end
+
+def method_nam
+end
