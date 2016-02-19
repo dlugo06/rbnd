@@ -8,7 +8,16 @@ def method_name
   5+5
 end
 
-def method_nam
+def one_tewo
+
+end
+
+def the_reasons
+
+end
+
+def new
+
 end
 
 def rerer
