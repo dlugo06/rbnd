@@ -10,3 +10,7 @@ end
 
 def method_nam
 end
+
+def rerer
+
+end
