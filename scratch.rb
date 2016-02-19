@@ -15,3 +15,7 @@ end
 def the_reasons
 
 end
+
+def new
+
+end
